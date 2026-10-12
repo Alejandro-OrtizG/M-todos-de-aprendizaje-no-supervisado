@@ -62,18 +62,9 @@ El programa imprime las estaciones y su grupo, calcula un resumen por grupo y cr
 ## Interpretación y limitaciones
 Los grupos son patrones dentro de esta pequeña muestra simulada. Sus identificadores son arbitrarios y no deben interpretarse como categorías oficiales. Para conclusiones sobre el sistema real se necesitan fuentes oficiales y datos verificables.
 
-## Entregables
-- Dataset: `datos/estaciones_metro.csv`
-- Código fuente: `src/agrupamiento.py`
-- Descripción de datos: `documentos/descripcion_datos.md`
-- Pruebas: `pruebas/pruebas.md`
-- Gráfico y resultados: carpeta `resultados/`
 
 ## Referencias
 - Consorcio Regional de Transportes de Madrid, portal de datos abiertos: https://datos.crtm.es/
 - Palma Méndez, J. T. (2008). *Inteligencia artificial: métodos, técnicas y aplicaciones*. McGraw-Hill España, capítulo 16 (técnicas de agrupamiento), referencia indicada en la consigna académica.
 
-## Entrega
-- Repositorio Git: [añadir URL]
-- Video de exposición: [añadir URL]
-- Estudiante: Diego Alejandro Ortiz
+
